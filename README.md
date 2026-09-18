@@ -129,16 +129,6 @@ A repository for Java programming projects and practice.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mithun-ksd & show_icons=true & theme=tokyonight & hide_border=true" alt="Mithun's GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-ksd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-ksd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-
-</div>
 
 ## 🤝 Connect With Me
 
