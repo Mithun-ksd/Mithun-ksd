@@ -34,6 +34,14 @@
 ---
 
 ## 🛠️ Technologies & Tools
+### skils
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</p>
 
 ### Programming Languages
 <p>
@@ -125,8 +133,9 @@ A repository for Java programming projects and practice.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mithun-ksd&show_icons=true&theme=tokyonight&hide_border=true" alt="Mithun's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Mithun-ksd & show_icons=true & theme=tokyonight & hide_border=true" alt="Mithun's GitHub Stats">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-ksd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-ksd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 
 </div>
