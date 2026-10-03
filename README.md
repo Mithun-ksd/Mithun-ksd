@@ -75,7 +75,21 @@
 
 ## 🚀 Featured Projects
 
+### 📰 My Journal — Responsive Blog Website
+
+A responsive multi-page personal blog website built from scratch using **HTML5 and CSS3**.
+
+- Focus: Responsive web design, multi-page website development, and frontend fundamentals
+- Technologies: HTML5, CSS3, CSS Grid, CSS Flexbox, GitHub Pages
+
+🔗 [Live Website](https://mithun-ksd.github.io/my-journal/)
+
+🔗 [View Repository](https://github.com/Mithun-ksd/my-journal)
+
+---
+
 ### 🧮 Python Calculator
+
 A simple calculator application built using **Python and Kivy**.
 
 - Focus: Basic calculations and GUI development
@@ -86,6 +100,7 @@ A simple calculator application built using **Python and Kivy**.
 ---
 
 ### 📝 NoteBook
+
 A simple text editor project designed for writing and managing text.
 
 - Focus: Basic desktop application development
@@ -96,6 +111,7 @@ A simple text editor project designed for writing and managing text.
 ---
 
 ### 🔐 Password Program
+
 A Python-based programming project focused on password-related functionality.
 
 - Focus: Python programming practice
@@ -106,6 +122,7 @@ A Python-based programming project focused on password-related functionality.
 ---
 
 ### ☕ Advanced Java Projects
+
 A repository for Java programming projects and practice.
 
 - Focus: Java development and programming concepts
@@ -117,19 +134,20 @@ A repository for Java programming projects and practice.
 
 ## 🌱 Currently Learning
 
-- Bootstrap and responsive web design
+- Advanced responsive web design
 - Stronger programming fundamentals
 - Object-oriented programming
 - Building practical applications
 - Writing cleaner and more maintainable code
-
+- Git and GitHub workflows
+  
 ---
 
 ## 🎯 2026 Development Goals
 
 - [ ] Build and publish more complete projects
 - [ ] Improve Python and Java programming skills
-- [ ] Create responsive websites using HTML, CSS, and Bootstrap
+- [ ] Build more responsive websites using HTML, CSS, and Bootstrap
 - [ ] Learn Git and GitHub workflows more deeply
 - [ ] Develop projects that solve practical problems
 - [ ] Build a portfolio that demonstrates real technical ability
