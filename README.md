@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Hi, I'm Mithun C 👋
 
@@ -121,23 +121,23 @@ A repository containing Java programming projects and practice.
 ## 🌱 Currently Learning
 
 * Full-stack web development
-* Responsive web development
 * JavaScript programming
+* Responsive web development
+* Building practical applications
 * Stronger programming fundamentals
 * Object-oriented programming
 * Writing cleaner and more maintainable code
-* Building practical applications
 
 ---
 
 ## 🎯 2026 Development Goals
 
-* [ ] Build and publish more complete web applications
-* [ ] Strengthen JavaScript and Python programming skills
+* [ ] Build and publish complete web applications
+* [ ] Strengthen JavaScript and Python
 * [ ] Improve responsive web development
-* [ ] Develop projects that solve practical problems
-* [ ] Strengthen full-stack development skills
-* [ ] Build projects that demonstrate practical technical ability
+* [ ] Build practical web applications
+* [ ] Strengthen full-stack development
+* [ ] Create projects demonstrating practical technical ability
 
 ---
 
