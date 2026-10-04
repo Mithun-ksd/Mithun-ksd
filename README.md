@@ -2,7 +2,7 @@
 
 # Hi, I'm Mithun C 👋
 
-### BCA Student | Aspiring Full-Stack Web Developer | JavaScript • Python • HTML • CSS
+### Aspiring Full-Stack Web Developer | JavaScript • Python • HTML • CSS
 
 <p>
   <a href="https://github.com/Mithun-ksd">
